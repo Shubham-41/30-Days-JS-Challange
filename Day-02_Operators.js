@@ -105,3 +105,25 @@ console.log(ans);
 ans = num1>=0? console.log("Positive") : console.log("Negative")
 
 console.log(ans);
+
+
+/*  Output 
+
+77
+-27
+1300
+2.08
+2
+54
+29
+true
+false
+true
+false
+false
+false
+true
+false
+Positive
+
+*/
